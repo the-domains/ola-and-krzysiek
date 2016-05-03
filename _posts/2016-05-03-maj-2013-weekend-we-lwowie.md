@@ -5,12 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Maj 2013 - weekend we Lwowie. '
-datePublished: '2016-05-03T17:57:39.190Z'
-dateModified: '2016-05-03T17:57:36.062Z'
+datePublished: '2016-05-03T19:29:45.357Z'
+dateModified: '2016-05-03T19:27:36.334Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-03-maj-2013-weekend-we-lwowie.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,15 +20,13 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-03-maj-2013-weekend-we-lwowie.md
-published: true
 url: maj-2013-weekend-we-lwowie/index.html
 _type: Article
 
 ---
 Maj 2013 - weekend we Lwowie. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3c6db31ce2ae789d3c0e022540cda58d9ac1777.jpg)
 
-Miasto wąskotorowych tramwajów
+Miasto wąskotorowych tramwajów:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a35a2d1-94bb-4ed8-a5f0-e42d9447730f.jpg)
 
 tramwajów ze znaku królika:
