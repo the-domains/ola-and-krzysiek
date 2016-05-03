@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Maj 2013 - weekend we Lwowie. '
-datePublished: '2016-05-03T20:01:13.329Z'
-dateModified: '2016-05-03T20:01:03.990Z'
+description: 'Maj 2013 '
+datePublished: '2016-05-03T21:12:46.427Z'
+dateModified: '2016-05-03T21:12:33.646Z'
 title: ''
 author:
   - name: ''
@@ -24,7 +24,10 @@ url: maj-2013-weekend-we-lwowie/index.html
 _type: Article
 
 ---
-Maj 2013 - weekend we Lwowie. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/65316d7e4861b452aa3b7ab2f7cd6bf2ca1b5c3c.jpg)
+Maj 2013 
+
+weekend we Lwowie.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/65316d7e4861b452aa3b7ab2f7cd6bf2ca1b5c3c.jpg)
 
 Miasto wąskotorowych tramwajów
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a35a2d1-94bb-4ed8-a5f0-e42d9447730f.jpg)
