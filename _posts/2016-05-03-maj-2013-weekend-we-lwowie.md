@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Maj 2013 - weekend we Lwowie.
-datePublished: '2016-05-03T21:14:46.163Z'
-dateModified: '2016-05-03T21:14:28.879Z'
+datePublished: '2016-05-04T03:54:32.600Z'
+dateModified: '2016-05-04T03:53:22.470Z'
 title: ''
 author:
   - name: ''
