@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Lwów 2013 - weekend we Lwowie
-datePublished: '2016-05-04T04:41:36.398Z'
-dateModified: '2016-05-04T04:41:31.052Z'
+datePublished: '2016-05-04T04:43:03.915Z'
+dateModified: '2016-05-04T04:42:18.733Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-04-lwow-2013-weekend-we-lwowie.md
 published: true
 authors: []
@@ -23,4 +25,4 @@ _type: Article
 
 ---
 Lwów 2013 - weekend we Lwowie
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b949d682-1633-480c-8057-0ffbaf445bd0.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b4e0318fe54144b904bf25960875072aaa9b49a.jpg)
