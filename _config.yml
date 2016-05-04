@@ -1,28 +1,18 @@
-name: 'Ola&Krzysiek'
-favicon: null
-layout_spectrum: 0.24933
-typography_spectrum: 0.65392
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#f9fafe'
-    - '#d6dae3'
-    - '#2c2827'
-    - '#706f6b'
-    - '#a8a7a3'
-  brandStrength: 0.5
+    - '#7F9CBE'
+    - '#F7F1E3'
+    - '#857661'
+    - '#141412'
+    - '#4B4D42'
+  brandStrength: 0.006756
   lightness: 0.5
-  saturation: 0.5
   rhythmicContrast: 0.5
+  saturation: 0.5
+cta: {}
+layout_spectrum: 0.24933
+name: 'Ola&Krzysiek'
+opengraph: {}
 purpose: []
+typography_spectrum: 0.65392
