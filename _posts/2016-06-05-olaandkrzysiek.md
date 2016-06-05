@@ -4,17 +4,17 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Ola&Krzysiek '
-datePublished: '2016-06-05T20:55:49.187Z'
-dateModified: '2016-06-05T20:55:20.713Z'
+description: Ola&Krzysiek
+datePublished: '2016-06-05T21:01:24.314Z'
+dateModified: '2016-06-05T21:01:08.669Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-06-05-olaandkrzysiek.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-05-olaandkrzysiek.md
 url: olaandkrzysiek/index.html
 _type: Article
 
