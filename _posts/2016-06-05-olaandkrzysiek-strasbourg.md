@@ -4,15 +4,17 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Ola&Krzysiek @ Strasbourg '
-datePublished: '2016-06-05T21:09:24.795Z'
-dateModified: '2016-06-05T21:09:07.130Z'
+description: Ola&Krzysiek @ Strasbourg
+datePublished: '2016-06-05T21:11:30.259Z'
+dateModified: '2016-06-05T21:11:26.352Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-06-05-olaandkrzysiek-strasbourg.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-05-olaandkrzysiek-strasbourg.md
 url: olaandkrzysiek-strasbourg/index.html
 _type: Article
 
