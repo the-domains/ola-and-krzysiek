@@ -1,4 +1,19 @@
-analytics: {}
+name: 'Ola&Krzysiek'
+favicon: null
+layout_spectrum: 0.9467
+typography_spectrum: 0.65392
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#7F9CBE'
@@ -8,11 +23,6 @@ color:
     - '#4B4D42'
   brandStrength: 0.006756
   lightness: 0.5
-  rhythmicContrast: 0.5
   saturation: 0.5
-cta: {}
-layout_spectrum: 0
-name: 'Ola&Krzysiek'
-opengraph: {}
+  rhythmicContrast: 0.5
 purpose: []
-typography_spectrum: 0.65392
