@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ola&Krzysiek]]></title>
         <description><![CDATA[Ola&Krzysiek]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ola-and-krzysiek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 21:09:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 05 Jun 2016 21:11:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ola-and-krzysiek/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f02d9c0-3891-4c2e-a85b-20bd90bc44ca.jpg">]]></description>
-            <link>undefinedolaandkrzysiek-strasbourg/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f02d9c0-3891-4c2e-a85b-20bd90bc44ca.jpg" alt="" title="" />]]></description>
+            <link>https://thegrid.ai/ola-and-krzysiek/olaandkrzysiek-strasbourg/index.html</link>
             <guid isPermaLink="false">8779535a-788d-469e-a0a4-04af6ecd4008</guid>
-            <pubDate>Sun, 05 Jun 2016 21:09:24 GMT</pubDate>
+            <pubDate>Sun, 05 Jun 2016 21:11:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
