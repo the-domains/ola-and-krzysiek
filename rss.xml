@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ola&Krzysiek]]></title>
         <description><![CDATA[Ola&Krzysiek]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ola-and-krzysiek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 18:07:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 17 Jun 2016 18:09:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ola-and-krzysiek/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fe03184-5ff4-406a-b3ae-5fe9161032e3.jpg">]]></description>
-            <link>undefineddzien-3-berducedo-castro-dzisiejsze-przejscie-sponsoruje-l/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fe03184-5ff4-406a-b3ae-5fe9161032e3.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/ola-and-krzysiek/dzien-3-berducedo-castro-dzisiejsze-przejscie-sponsoruje-l/index.html</link>
             <guid isPermaLink="false">483c4463-78dd-4928-895c-34f9bec6ef65</guid>
-            <pubDate>Fri, 17 Jun 2016 18:07:43 GMT</pubDate>
+            <pubDate>Fri, 17 Jun 2016 18:09:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
