@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Dzień 3 Berducedo - Castro dzisiejsze przejście sponsoruje literka d jak deszcz. Trudy przejścia rekompensuje domowy klimat albergue z salsą i bardzo pomocna pani z obsługi. '
-datePublished: '2016-06-22T18:47:13.738Z'
-dateModified: '2016-06-22T18:47:07.586Z'
+datePublished: '2016-06-22T19:31:34.890Z'
+dateModified: '2016-06-22T19:31:32.455Z'
 title: ''
 author:
   - name: ''
