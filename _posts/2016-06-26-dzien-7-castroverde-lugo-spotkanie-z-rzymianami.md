@@ -7,16 +7,16 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: ' Dzień 7 Castroverde - Lugo spotkanie z Rzymianami'
-datePublished: '2016-06-26T20:30:36.727Z'
-dateModified: '2016-06-26T20:29:49.113Z'
+datePublished: '2016-06-28T18:50:16.393Z'
+dateModified: '2016-06-26T20:30:47.210Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-06-26-dzien-7-castroverde-lugo-spotkanie-z-rzymianami.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-26-dzien-7-castroverde-lugo-spotkanie-z-rzymianami.md
 _type: MediaObject
 
 ---
