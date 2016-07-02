@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Dzień 13 Santiago de Compostela
-datePublished: '2016-07-02T16:21:53.885Z'
-dateModified: '2016-07-02T16:20:20.108Z'
+datePublished: '2016-07-02T16:31:58.858Z'
+dateModified: '2016-07-02T16:31:55.929Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-07-02-dzien-13-santiago-de-compostela.md
 authors: []
 publisher: null
@@ -23,5 +25,5 @@ Dzień 13 Santiago de Compostela
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21329601-4c1a-4f95-9d32-dfeb58c4b0b2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8312f8d2-95d3-4a75-a7f8-adc63721e30b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/256a61f5-e252-4a74-9452-cdfcdc1815cb.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98818969-ce03-42a6-9e20-5ee5e8356aac.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6e446ec-c5aa-4c6a-bb54-6732816f871b.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0298406efb77468bb65523a53f965a86/croprotate.jpg?cropheight=2816&cropwidth=2112&degrees=-270&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F98818969-ce03-42a6-9e20-5ee5e8356aac.jpg&x=0&y=0)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/927f71fe6b4d8549f5e96dfedaed9442/croprotate.jpg?cropheight=2816&cropwidth=2112&degrees=-270&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff6e446ec-c5aa-4c6a-bb54-6732816f871b.jpg&x=0&y=0)
