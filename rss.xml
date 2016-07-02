@@ -4,8 +4,17 @@
         <description><![CDATA[Ola&Krzysiek]]></description>
         <link>https://thegrid.ai/ola-and-krzysiek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 16:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 16:31:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ola-and-krzysiek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Coruña]]></title>
+            <description><![CDATA[<article><h1>A Coruña</h1><p>
+
+</p></article>]]></description>
+            <link>https://thegrid.ai/ola-and-krzysiek/a-coruna/index.html</link>
+            <guid isPermaLink="false">b57ea0ae-a4ba-4ed2-9992-701d1e606b4c</guid>
+            <pubDate>Sat, 02 Jul 2016 16:30:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21329601-4c1a-4f95-9d32-dfeb58c4b0b2.jpg">]]></description>
@@ -68,13 +77,6 @@
             <link>https://thegrid.ai/ola-and-krzysiek/dzien-4-castro-a-fonsagrada-ponad-100km-za-nami-kolejne-1/index.html</link>
             <guid isPermaLink="false">d2b76fee-b8fa-4242-8a3c-6673f47132c8</guid>
             <pubDate>Thu, 23 Jun 2016 17:45:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97fbe362-7d33-4510-bd42-ef4c479a21b5.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/ola-and-krzysiek/dzien-5-a-fonsagrada-o-cadavo-kto-szedl-to-szedl/index.html</link>
-            <guid isPermaLink="false">05ea9421-dbb8-4c34-9195-7bff70bb2edf</guid>
-            <pubDate>Thu, 23 Jun 2016 13:39:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
