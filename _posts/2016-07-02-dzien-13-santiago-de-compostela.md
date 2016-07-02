@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Dzień 13 Santiago de Compostela
-datePublished: '2016-07-02T16:20:14.192Z'
-dateModified: '2016-07-02T16:19:48.160Z'
+datePublished: '2016-07-02T16:21:53.885Z'
+dateModified: '2016-07-02T16:20:20.108Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-02-dzien-13-santiago-de-compostela.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-02-dzien-13-santiago-de-compostela.md
 url: dzien-13-santiago-de-compostela/index.html
 _type: Article
 
