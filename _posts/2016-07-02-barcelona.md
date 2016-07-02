@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Barcelona
-datePublished: '2016-07-02T22:35:34.412Z'
-dateModified: '2016-07-02T22:35:34.129Z'
+datePublished: '2016-07-02T22:37:55.655Z'
+dateModified: '2016-07-02T22:35:46.199Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-07-02-barcelona.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-02-barcelona.md
 url: barcelona/index.html
 _type: Article
 
