@@ -4,8 +4,15 @@
         <description><![CDATA[Ola&Krzysiek]]></description>
         <link>https://thegrid.ai/ola-and-krzysiek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 20:51:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2016 20:52:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ola-and-krzysiek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fa86199-b895-49aa-b31a-d41380d6bc21.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/ola-and-krzysiek/dzien-4-castro-a-fonsagrada-ponad-100km-za-nami-kolejne-1/index.html</link>
+            <guid isPermaLink="false">d2b76fee-b8fa-4242-8a3c-6673f47132c8</guid>
+            <pubDate>Sun, 03 Jul 2016 20:52:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51eb5fde-fe7f-4721-88e3-a631cd610913.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/ola-and-krzysiek/dzien-8-lugo-san-roman-da-retorta/index.html</link>
             <guid isPermaLink="false">37099dc4-1fa7-4f26-80b1-916553cd148a</guid>
             <pubDate>Sat, 02 Jul 2016 15:27:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6960fe6b-78bf-40b3-a9e9-83df9ce4d3f5.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/ola-and-krzysiek/dzien-7-castroverde-lugo-spotkanie-z-rzymianami/index.html</link>
-            <guid isPermaLink="false">4a115377-f4d2-4830-858c-a12d564adfd2</guid>
-            <pubDate>Sat, 02 Jul 2016 15:26:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
