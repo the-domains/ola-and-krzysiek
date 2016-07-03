@@ -4,8 +4,15 @@
         <description><![CDATA[Ola&Krzysiek]]></description>
         <link>https://thegrid.ai/ola-and-krzysiek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 22:38:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2016 20:51:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ola-and-krzysiek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51eb5fde-fe7f-4721-88e3-a631cd610913.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/ola-and-krzysiek/dzien-2-borres-berducedo-przez-malownicza-ruta-de-los-hosp/index.html</link>
+            <guid isPermaLink="false">d807440c-6bd7-42b6-b29d-96539bdc01ae</guid>
+            <pubDate>Sun, 03 Jul 2016 20:51:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0994d099f0e1466091bb4cfe563cefa0/croprotate.jpg?cropheight=1441&cropwidth=3600&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7fd5914c-5eb6-4731-b7f4-47bb8a1b532e.jpg&x=0&y=0" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/ola-and-krzysiek/dzien-7-castroverde-lugo-spotkanie-z-rzymianami/index.html</link>
             <guid isPermaLink="false">4a115377-f4d2-4830-858c-a12d564adfd2</guid>
             <pubDate>Sat, 02 Jul 2016 15:26:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69eae562-b0d9-452d-8960-cc4f3821a67b.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/ola-and-krzysiek/dzien-6-o-cadavo-castroverde/index.html</link>
-            <guid isPermaLink="false">8bd1c9df-f4ea-455e-91b3-953b6b7745e1</guid>
-            <pubDate>Thu, 23 Jun 2016 17:47:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
