@@ -4,8 +4,15 @@
         <description><![CDATA[Ola&Krzysiek]]></description>
         <link>https://thegrid.ai/ola-and-krzysiek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 20:52:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2016 20:52:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ola-and-krzysiek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97fbe362-7d33-4510-bd42-ef4c479a21b5.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/ola-and-krzysiek/dzien-5-a-fonsagrada-o-cadavo-kto-szedl-to-szedl/index.html</link>
+            <guid isPermaLink="false">05ea9421-dbb8-4c34-9195-7bff70bb2edf</guid>
+            <pubDate>Sun, 03 Jul 2016 20:52:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fa86199-b895-49aa-b31a-d41380d6bc21.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/ola-and-krzysiek/dzien-9-san-roman-da-retorta-/index.html</link>
             <guid isPermaLink="false">07fed372-8a3b-4407-9810-0abd6013f9a2</guid>
             <pubDate>Sat, 02 Jul 2016 15:58:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4301cbd-9d0b-46bd-8803-5acb7f8a9ce4.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/ola-and-krzysiek/dzien-8-lugo-san-roman-da-retorta/index.html</link>
-            <guid isPermaLink="false">37099dc4-1fa7-4f26-80b1-916553cd148a</guid>
-            <pubDate>Sat, 02 Jul 2016 15:27:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
