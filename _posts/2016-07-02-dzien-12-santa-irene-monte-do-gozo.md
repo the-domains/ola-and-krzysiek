@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Dzień 12 Santa Irene - Monte do Gozo '
-datePublished: '2016-07-02T16:21:42.145Z'
-dateModified: '2016-07-02T16:21:38.704Z'
+description: Dzień 12 Santa Irene - Monte do Gozo
+datePublished: '2016-07-03T20:54:50.863Z'
+dateModified: '2016-07-02T16:21:51.863Z'
 title: ''
 author:
   - name: ''
