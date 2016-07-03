@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Dzień 4 Castro - A Fonsagrada ponad 100km za nami, kolejne 160 przed nami.'
-datePublished: '2016-06-23T17:45:59.449Z'
-dateModified: '2016-06-23T17:45:58.748Z'
+datePublished: '2016-07-03T20:52:14.457Z'
+dateModified: '2016-06-23T17:46:31.382Z'
 title: ''
 author:
   - name: ''
