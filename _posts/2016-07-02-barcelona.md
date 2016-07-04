@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Barcelona
-datePublished: '2016-07-02T22:37:55.655Z'
-dateModified: '2016-07-02T22:35:46.199Z'
+datePublished: '2016-07-04T08:01:10.726Z'
+dateModified: '2016-07-04T08:01:09.990Z'
 title: ''
 author:
   - name: ''
@@ -22,8 +22,8 @@ _type: Article
 Barcelona
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef16ed68-a4db-4829-ae19-03e34c5ba3e1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60808f31-3d21-4111-8229-2f288edb70e7.jpg)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0994d099f0e1466091bb4cfe563cefa0/croprotate.jpg?cropheight=1441&cropwidth=3600&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7fd5914c-5eb6-4731-b7f4-47bb8a1b532e.jpg&x=0&y=0)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9257c4da-3e46-462e-8125-d1b64ff44a47.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/27e68a396cf990c896adf47adc517b27ef720a47.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3abe4bb45781b7ca6ed818b7e779b40e/croprotate.jpg?cropheight=2816&cropwidth=2112&degrees=-270&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9257c4da-3e46-462e-8125-d1b64ff44a47.jpg&x=0&y=0)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/908d23e2-100b-44d5-880b-f9aaef01a9a0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcb71b58-01d0-428f-9951-6fe75337cb0e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a0daab1-021c-4858-a051-34f580224498.jpg)
