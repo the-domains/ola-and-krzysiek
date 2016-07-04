@@ -4,8 +4,15 @@
         <description><![CDATA[Ola&Krzysiek]]></description>
         <link>https://thegrid.ai/ola-and-krzysiek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 07:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 07:34:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ola-and-krzysiek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c88440ad-f612-454f-bc6f-4c20d69a55a3.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/ola-and-krzysiek/dzien-12-santa-irene-monte-do-gozo/index.html</link>
+            <guid isPermaLink="false">ec6db1bf-28f8-47e4-a9f5-45392a849b7c</guid>
+            <pubDate>Mon, 04 Jul 2016 07:34:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dzień 11 Boente - Arzua - Santa Irene]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/33c13712-855e-44dc-8c98-46b48c9f5064.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/ola-and-krzysiek/dzien-3-berducedo-castro-dzisiejsze-przejscie-sponsoruje/index.html</link>
             <guid isPermaLink="false">483c4463-78dd-4928-895c-34f9bec6ef65</guid>
             <pubDate>Mon, 04 Jul 2016 06:11:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51eb5fde-fe7f-4721-88e3-a631cd610913.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/ola-and-krzysiek/dzien-2-borres-berducedo-przez-malownicza-ruta-de-los-hosp/index.html</link>
-            <guid isPermaLink="false">d807440c-6bd7-42b6-b29d-96539bdc01ae</guid>
-            <pubDate>Mon, 04 Jul 2016 06:06:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
