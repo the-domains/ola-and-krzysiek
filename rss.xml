@@ -4,8 +4,15 @@
         <description><![CDATA[Ola&Krzysiek]]></description>
         <link>https://thegrid.ai/ola-and-krzysiek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 06:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 06:11:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ola-and-krzysiek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b070f46d-148d-4955-b961-79c5948c85cb.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/ola-and-krzysiek/dzien-3-berducedo-castro-dzisiejsze-przejscie-sponsoruje/index.html</link>
+            <guid isPermaLink="false">483c4463-78dd-4928-895c-34f9bec6ef65</guid>
+            <pubDate>Mon, 04 Jul 2016 06:11:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51eb5fde-fe7f-4721-88e3-a631cd610913.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/ola-and-krzysiek/dzien-4-castro-a-fonsagrada-ponad-100km-za-nami-kolejne-1/index.html</link>
             <guid isPermaLink="false">d2b76fee-b8fa-4242-8a3c-6673f47132c8</guid>
             <pubDate>Sun, 03 Jul 2016 20:52:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0994d099f0e1466091bb4cfe563cefa0/croprotate.jpg?cropheight=1441&cropwidth=3600&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7fd5914c-5eb6-4731-b7f4-47bb8a1b532e.jpg&x=0&y=0" alt="" title="">]]></description>
-            <link>https://thegrid.ai/ola-and-krzysiek/barcelona/index.html</link>
-            <guid isPermaLink="false">bf1a2243-1b97-423d-be49-cf2a6e491c4e</guid>
-            <pubDate>Sat, 02 Jul 2016 22:37:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
