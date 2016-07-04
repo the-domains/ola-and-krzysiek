@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Dzień 8 Lugo - San Román da Retorta
-datePublished: '2016-07-02T15:27:09.888Z'
-dateModified: '2016-07-02T15:27:08.550Z'
+description: Dzień 8 Lugo - San Román da Retorta.
+datePublished: '2016-07-04T06:43:51.555Z'
+dateModified: '2016-07-04T06:43:19.657Z'
 title: ''
 author:
   - name: ''
@@ -19,7 +19,7 @@ url: dzien-8-lugo-san-roman-da-retorta/index.html
 _type: Article
 
 ---
-Dzień 8 Lugo - San Román da Retorta
+Dzień 8 Lugo - San Román da Retorta.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4301cbd-9d0b-46bd-8803-5acb7f8a9ce4.jpg)
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/207ad5f5a93edf007f338ba34ae2b588/croprotate.jpg?cropheight=2816&cropwidth=2112&degrees=-270&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7aae2f7d-ff15-4407-a15b-58898e592665.jpg&x=0&y=0)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b44d6f9-5692-447e-9293-8db620f8d353.jpg)
