@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Dzień 9 San Román da Retorta -  As Seixas
-datePublished: '2016-07-02T15:58:29.794Z'
-dateModified: '2016-07-02T15:58:15.915Z'
+description: Dzień 9 San Román da Retorta -  As Seixas.
+datePublished: '2016-07-04T06:54:42.204Z'
+dateModified: '2016-07-03T20:54:03.156Z'
 title: ''
 author:
   - name: ''
@@ -19,7 +19,7 @@ url: dzien-9-san-roman-da-retorta-/index.html
 _type: Article
 
 ---
-Dzień 9 San Román da Retorta - _As Seixas_
+Dzień 9 San Román da Retorta - _As Seixas._
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7457bf30-73c0-40a1-a91e-94355c4f3ca2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3bc1a90-e414-4ae6-b731-87d758452fd6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/173e5d95-c2d6-4441-9581-079aaa213870.jpg)
