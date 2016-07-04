@@ -4,8 +4,15 @@
         <description><![CDATA[Ola&Krzysiek]]></description>
         <link>https://thegrid.ai/ola-and-krzysiek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 06:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 06:34:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ola-and-krzysiek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69eae562-b0d9-452d-8960-cc4f3821a67b.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/ola-and-krzysiek/dzien-6-o-cadavo-castroverde/index.html</link>
+            <guid isPermaLink="false">8bd1c9df-f4ea-455e-91b3-953b6b7745e1</guid>
+            <pubDate>Mon, 04 Jul 2016 06:34:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97fbe362-7d33-4510-bd42-ef4c479a21b5.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/ola-and-krzysiek/dzien-11-boente-arzua-santa-irene/index.html</link>
             <guid isPermaLink="false">ef57ea59-42cd-4ee1-acac-5ebbad3ad360</guid>
             <pubDate>Sun, 03 Jul 2016 20:54:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69eae562-b0d9-452d-8960-cc4f3821a67b.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/ola-and-krzysiek/dzien-6-o-cadavo-castroverde/index.html</link>
-            <guid isPermaLink="false">8bd1c9df-f4ea-455e-91b3-953b6b7745e1</guid>
-            <pubDate>Sun, 03 Jul 2016 20:52:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
