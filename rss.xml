@@ -4,8 +4,15 @@
         <description><![CDATA[Ola&Krzysiek]]></description>
         <link>https://thegrid.ai/ola-and-krzysiek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 06:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 06:38:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ola-and-krzysiek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6960fe6b-78bf-40b3-a9e9-83df9ce4d3f5.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/ola-and-krzysiek/dzien-7-castroverde-lugo-spotkanie-z-rzymianami/index.html</link>
+            <guid isPermaLink="false">4a115377-f4d2-4830-858c-a12d564adfd2</guid>
+            <pubDate>Mon, 04 Jul 2016 06:37:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69eae562-b0d9-452d-8960-cc4f3821a67b.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/ola-and-krzysiek/dzien-12-santa-irene-monte-do-gozo/index.html</link>
             <guid isPermaLink="false">ec6db1bf-28f8-47e4-a9f5-45392a849b7c</guid>
             <pubDate>Sun, 03 Jul 2016 20:54:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dzień 11 Boente - Arzua - Santa Irene]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/33c13712-855e-44dc-8c98-46b48c9f5064.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/ola-and-krzysiek/dzien-11-boente-arzua-santa-irene/index.html</link>
-            <guid isPermaLink="false">ef57ea59-42cd-4ee1-acac-5ebbad3ad360</guid>
-            <pubDate>Sun, 03 Jul 2016 20:54:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
