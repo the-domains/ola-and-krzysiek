@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Dzień 11 Boente - Arzua - Santa Irene
-datePublished: '2016-07-03T20:54:06.280Z'
-dateModified: '2016-07-02T16:16:06.409Z'
+description: Dzień 11 Boente - Arzua - Santa Irene.
+datePublished: '2016-07-04T07:27:06.506Z'
+dateModified: '2016-07-04T07:26:58.221Z'
 title: ''
 author:
   - name: ''
@@ -19,7 +19,7 @@ url: dzien-11-boente-arzua-santa-irene/index.html
 _type: Article
 
 ---
-Dzień 11 Boente - Arzua - Santa Irene
+Dzień 11 Boente - Arzua - Santa Irene.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33c13712-855e-44dc-8c98-46b48c9f5064.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2024667e-c87a-4c54-ad98-8c7558ec75b0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/adf03a7f-ad66-429e-b9f0-3a6e068c5b49.jpg)
