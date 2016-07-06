@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: Dzień 9 San Román da Retorta -  As Seixas.
-datePublished: '2016-07-06T12:06:14.202Z'
-dateModified: '2016-07-06T12:06:05.246Z'
+datePublished: '2016-07-06T12:35:16.963Z'
+dateModified: '2016-07-06T12:35:14.186Z'
 title: ''
 author:
   - name: ''
