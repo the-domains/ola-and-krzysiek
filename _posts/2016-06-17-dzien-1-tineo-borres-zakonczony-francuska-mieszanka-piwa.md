@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-07-04T04:35:19.293Z'
-dateModified: '2016-07-03T20:51:36.442Z'
+description: 'Dzień 1 Tineo - Borres zakończony francuską mieszanką piwa i wina '
+datePublished: '2016-07-06T11:50:46.434Z'
+dateModified: '2016-07-06T11:50:44.971Z'
 title: ''
 author:
   - name: ''
@@ -19,10 +19,7 @@ url: dzien-1-tineo-borres-zakonczony-francuska-mieszanka-piwa/index.html
 _type: Article
 
 ---
-[Dzień 1 Tineo - Borres zakończony francuską mieszanką piwa i wina ][0]
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6b604ec98617f5132208b3bbc7d9931c/croprotate.jpg?cropheight=3104&cropwidth=1746&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fdb8a198e-2104-48e6-bb95-eb79f372166b.jpg&x=0&y=0)
+Dzień 1 Tineo - Borres zakończony francuską mieszanką piwa i wina ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6b604ec98617f5132208b3bbc7d9931c/croprotate.jpg?cropheight=3104&cropwidth=1746&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fdb8a198e-2104-48e6-bb95-eb79f372166b.jpg&x=0&y=0)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0960de9-78eb-4cd5-9a3f-eba724b57b63.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41db14c7-864c-4d18-83d2-2f4dfb74d6e4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b634859-db3f-44f5-839a-36da7dac703a.jpg)
-
-[0]: https://thegrid.ai/ola-and-krzysiek/dzien-1-tineo-borres-zakonczony-francuska-mieszanka-piwa/
