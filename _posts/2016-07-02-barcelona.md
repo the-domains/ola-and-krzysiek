@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Barcelona
-datePublished: '2016-07-04T10:38:18.244Z'
-dateModified: '2016-07-04T10:34:12.911Z'
+datePublished: '2016-07-06T12:14:18.792Z'
+dateModified: '2016-07-04T10:38:27.669Z'
 title: ''
 author:
   - name: ''
