@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Dzień 1 Tineo - Borres zakończony francuską mieszanką piwa i wina '
-datePublished: '2016-07-06T11:50:46.434Z'
-dateModified: '2016-07-06T11:50:44.971Z'
+datePublished: '2016-07-06T11:51:41.100Z'
+dateModified: '2016-07-06T11:51:37.431Z'
 title: ''
 author:
   - name: ''
