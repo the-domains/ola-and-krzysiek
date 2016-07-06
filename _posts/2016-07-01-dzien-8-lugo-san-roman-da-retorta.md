@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Dzień 8 Lugo - San Román da Retorta.
-datePublished: '2016-07-06T12:03:05.083Z'
-dateModified: '2016-07-06T12:02:47.572Z'
+datePublished: '2016-07-06T12:05:37.587Z'
+dateModified: '2016-07-06T12:05:19.792Z'
 title: ''
 author:
   - name: ''
