@@ -4,8 +4,15 @@
         <description><![CDATA[Ola&Krzysiek]]></description>
         <link>https://thegrid.ai/ola-and-krzysiek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 12:33:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 12:33:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ola-and-krzysiek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4301cbd-9d0b-46bd-8803-5acb7f8a9ce4.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/ola-and-krzysiek/dzien-8-lugo-san-roman-da-retorta/index.html</link>
+            <guid isPermaLink="false">37099dc4-1fa7-4f26-80b1-916553cd148a</guid>
+            <pubDate>Wed, 06 Jul 2016 12:33:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6960fe6b-78bf-40b3-a9e9-83df9ce4d3f5.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/ola-and-krzysiek/a-coruna/index.html</link>
             <guid isPermaLink="false">b57ea0ae-a4ba-4ed2-9992-701d1e606b4c</guid>
             <pubDate>Wed, 06 Jul 2016 12:14:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c88440ad-f612-454f-bc6f-4c20d69a55a3.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/ola-and-krzysiek/dzien-12-santa-irene-monte-do-gozo/index.html</link>
-            <guid isPermaLink="false">ec6db1bf-28f8-47e4-a9f5-45392a849b7c</guid>
-            <pubDate>Wed, 06 Jul 2016 12:13:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
