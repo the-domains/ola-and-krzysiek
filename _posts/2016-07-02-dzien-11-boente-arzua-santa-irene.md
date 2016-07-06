@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Dzień 11 Boente - Arzua - Santa Irene.
-datePublished: '2016-07-04T07:27:06.506Z'
-dateModified: '2016-07-04T07:26:58.221Z'
+datePublished: '2016-07-06T12:09:11.766Z'
+dateModified: '2016-07-06T12:09:08.682Z'
 title: ''
 author:
   - name: ''
