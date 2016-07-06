@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: ' Dzień 7 Castroverde - Lugo spotkanie z Rzymianami.'
-datePublished: '2016-07-06T12:02:18.139Z'
-dateModified: '2016-07-06T12:02:14.540Z'
+datePublished: '2016-07-06T12:32:55.115Z'
+dateModified: '2016-07-06T12:32:53.257Z'
 title: ''
 author:
   - name: ''
