@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: Dzień 12 Santa Irene - Monte do Gozo.
-datePublished: '2016-07-06T12:09:39.227Z'
-dateModified: '2016-07-06T12:09:26.850Z'
+datePublished: '2016-07-06T12:13:34.741Z'
+dateModified: '2016-07-06T12:13:31.386Z'
 title: ''
 author:
   - name: ''
