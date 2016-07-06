@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: ' Dzień 6 O Cadavo - Castroverde. '
-datePublished: '2016-07-06T12:04:35.088Z'
-dateModified: '2016-07-06T12:04:20.994Z'
+datePublished: '2016-07-06T12:30:50.468Z'
+dateModified: '2016-07-06T12:30:43.724Z'
 title: ''
 author:
   - name: ''
