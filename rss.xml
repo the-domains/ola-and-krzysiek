@@ -4,8 +4,22 @@
         <description><![CDATA[Ola&Krzysiek]]></description>
         <link>https://thegrid.ai/ola-and-krzysiek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 12:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 12:46:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ola-and-krzysiek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcf646c778f9400982d9a0b791524d0b1085e005.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/ola-and-krzysiek/dzien-13-santiago-de-compostela/index.html</link>
+            <guid isPermaLink="false">f5dbc021-6188-4b80-b41d-9c2bb7263678</guid>
+            <pubDate>Wed, 06 Jul 2016 12:46:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c88440ad-f612-454f-bc6f-4c20d69a55a3.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/ola-and-krzysiek/dzien-12-santa-irene-monte-do-gozo/index.html</link>
+            <guid isPermaLink="false">ec6db1bf-28f8-47e4-a9f5-45392a849b7c</guid>
+            <pubDate>Wed, 06 Jul 2016 12:46:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dzień 10 As Seixas -Melide (gdzie wchodzimy na Camino Francés) - Boente]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bb5b1f0-1623-42fe-b6ba-a8d0cb1c1c08.jpg" alt="" title="">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/ola-and-krzysiek/dzien-5-a-fonsagrada-o-cadavo-kto-szedl-to-szedl/index.html</link>
             <guid isPermaLink="false">05ea9421-dbb8-4c34-9195-7bff70bb2edf</guid>
             <pubDate>Wed, 06 Jul 2016 12:29:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fa86199-b895-49aa-b31a-d41380d6bc21.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/ola-and-krzysiek/dzien-4-castro-a-fonsagrada-ponad-100km-za-nami-kolejne-1/index.html</link>
-            <guid isPermaLink="false">d2b76fee-b8fa-4242-8a3c-6673f47132c8</guid>
-            <pubDate>Wed, 06 Jul 2016 12:28:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b070f46d-148d-4955-b961-79c5948c85cb.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/ola-and-krzysiek/dzien-3-berducedo-castro-dzisiejsze-przejscie-sponsoruje/index.html</link>
-            <guid isPermaLink="false">483c4463-78dd-4928-895c-34f9bec6ef65</guid>
-            <pubDate>Wed, 06 Jul 2016 12:27:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
