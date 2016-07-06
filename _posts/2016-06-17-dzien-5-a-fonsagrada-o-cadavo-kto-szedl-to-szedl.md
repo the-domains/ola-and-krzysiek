@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: Dzień 5 A Fonsagrada - O Cadavo kto szedł to szedł.
-datePublished: '2016-07-06T12:00:09.704Z'
-dateModified: '2016-07-06T12:00:07.544Z'
+datePublished: '2016-07-06T12:29:54.259Z'
+dateModified: '2016-07-06T12:29:53.410Z'
 title: ''
 author:
   - name: ''
