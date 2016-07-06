@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Dzień 10 As Seixas -Melide (gdzie wchodzimy na Camino Francés) - Boente.
-datePublished: '2016-07-06T12:45:59.468Z'
-dateModified: '2016-07-06T12:45:51.454Z'
+description: 'Dzień 10 As Seixas -Melide (gdzie wchodzimy na Camino Francés) - Boente. '
+datePublished: '2016-07-06T12:54:55.001Z'
+dateModified: '2016-07-06T12:53:18.256Z'
 title: ''
 author:
   - name: ''
