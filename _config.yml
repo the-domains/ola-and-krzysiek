@@ -1,18 +1,7 @@
-layout_spectrum: 0.20582927647046745
-typography_spectrum: 0.19520770711824298
-color:
-  brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  brandStrength: 0.8883684298489243
-  lightness: 0.4503232575953007
-  saturation: 0.46681961067952216
-  rhythmicContrast: 0.7466618386097252
 name: Ola&Krzysiek
 favicon: null
+layout_spectrum: 0.20402
+typography_spectrum: 0.19520770711824298
 title: Ola&Krzysiek
 cta:
   domain: null
@@ -26,4 +15,15 @@ opengraph:
   image: null
   type: null
   appId: null
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.8883684298489243
+  lightness: 0.4503232575953007
+  saturation: 0.46681961067952216
+  rhythmicContrast: 0.7466618386097252
 purpose: []
