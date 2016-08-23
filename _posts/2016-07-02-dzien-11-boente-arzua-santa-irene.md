@@ -5,15 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Dzień 11 Boente - Arzua - Santa Irene.
-datePublished: '2016-07-06T19:38:45.506Z'
-dateModified: '2016-07-06T19:26:59.330Z'
+datePublished: '2016-08-23T10:41:51.836Z'
+dateModified: '2016-08-23T10:41:51.338Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-07-02-dzien-11-boente-arzua-santa-irene.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: dzien-11-boente-arzua-santa-irene/index.html
 _type: Article
