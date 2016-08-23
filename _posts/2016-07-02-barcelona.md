@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T16:14:32.334Z'
+datePublished: '2016-08-23T10:39:22.795Z'
 sourcePath: _posts/2016-07-02-barcelona.md
 inFeed: true
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-22T16:14:31.694Z'
+dateModified: '2016-08-23T10:39:22.168Z'
 title: ''
 publisher: {}
 description: Barcelona
