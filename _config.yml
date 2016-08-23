@@ -28,6 +28,9 @@ navigation:
   - name: Barcelona
     id: bf1a2243-1b97-423d-be49-cf2a6e491c4e
     type: content
+  - name: A Coruña
+    id: b57ea0ae-a4ba-4ed2-9992-701d1e606b4c
+    type: content
 favicon: null
 title: Ola&Krzysiek
 purpose: []
