@@ -67,6 +67,9 @@ navigation:
   - name: Dzień 2 Borres - Berducedo przez malowniczą Ruta de los hospitales.
     id: d807440c-6bd7-42b6-b29d-96539bdc01ae
     type: content
+  - name: '  Dzień 1 Tineo - Borres '
+    id: 8b237b5b-5cbe-45c9-afa8-2d9b651ab1b4
+    type: content
 favicon: null
 title: Ola&Krzysiek
 purpose: []
