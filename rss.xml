@@ -4,8 +4,15 @@
         <description><![CDATA[Ola&Krzysiek]]></description>
         <link>https://thegrid.ai/ola-and-krzysiek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 10:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 10:40:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ola-and-krzysiek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcf646c778f9400982d9a0b791524d0b1085e005.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/ola-and-krzysiek/dzien-13-santiago-de-compostela/index.html</link>
+            <guid isPermaLink="false">f5dbc021-6188-4b80-b41d-9c2bb7263678</guid>
+            <pubDate>Tue, 23 Aug 2016 10:40:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Coruña]]></title>
             <description><![CDATA[<article><h1>A Coruña</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f2843849b9090e72841f07fbc9c46480fad00b6.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/ola-and-krzysiek/dzien-5-a-fonsagrada-o-cadavo-kto-szedl-to-szedl/index.html</link>
             <guid isPermaLink="false">05ea9421-dbb8-4c34-9195-7bff70bb2edf</guid>
             <pubDate>Mon, 22 Aug 2016 16:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcf646c778f9400982d9a0b791524d0b1085e005.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/ola-and-krzysiek/dzien-13-santiago-de-compostela/index.html</link>
-            <guid isPermaLink="false">f5dbc021-6188-4b80-b41d-9c2bb7263678</guid>
-            <pubDate>Wed, 06 Jul 2016 20:25:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
