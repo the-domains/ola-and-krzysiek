@@ -5,15 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Dzień 5 A Fonsagrada - O Cadavo kto szedł to szedł.
-datePublished: '2016-08-22T16:15:47.529Z'
-dateModified: '2016-07-06T12:30:24.565Z'
+datePublished: '2016-08-23T10:44:01.029Z'
+dateModified: '2016-08-23T10:44:00.507Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-06-17-dzien-5-a-fonsagrada-o-cadavo-kto-szedl-to-szedl.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: dzien-5-a-fonsagrada-o-cadavo-kto-szedl-to-szedl/index.html
 _type: Article
