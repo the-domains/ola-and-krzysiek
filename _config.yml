@@ -55,6 +55,9 @@ navigation:
   - name: 'Dzień 6 O Cadavo - Castroverde. '
     id: 8bd1c9df-f4ea-455e-91b3-953b6b7745e1
     type: content
+  - name: Dzien 5 A Fonsagrada - O Cadavo
+    id: 05ea9421-dbb8-4c34-9195-7bff70bb2edf
+    type: content
 favicon: null
 title: Ola&Krzysiek
 purpose: []
