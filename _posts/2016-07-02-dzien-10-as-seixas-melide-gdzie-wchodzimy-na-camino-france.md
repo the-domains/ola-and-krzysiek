@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T16:15:47.533Z'
+datePublished: '2016-08-23T10:42:16.465Z'
 sourcePath: >-
   _posts/2016-07-02-dzien-10-as-seixas-melide-gdzie-wchodzimy-na-camino-france.md
 inFeed: true
@@ -9,12 +9,13 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-06T20:21:58.474Z'
+dateModified: '2016-08-23T10:42:16.003Z'
 title: ''
-publisher: null
+publisher: {}
 description: Dzień 10 As Seixas -Melide (gdzie wchodzimy na Camino Francés) - Boente.
 inLanguage: null
 inNav: false
+via: {}
 starred: false
 url: dzien-10-as-seixas-melide-gdzie-wchodzimy-na-camino-france/index.html
 _type: Article
