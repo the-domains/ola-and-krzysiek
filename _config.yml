@@ -31,6 +31,9 @@ navigation:
   - name: A Coruña
     id: b57ea0ae-a4ba-4ed2-9992-701d1e606b4c
     type: content
+  - name: Dzień 13 Santiago de Compostela
+    id: f5dbc021-6188-4b80-b41d-9c2bb7263678
+    type: content
 favicon: null
 title: Ola&Krzysiek
 purpose: []
