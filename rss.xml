@@ -4,8 +4,15 @@
         <description><![CDATA[Ola&Krzysiek]]></description>
         <link>https://thegrid.ai/ola-and-krzysiek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 10:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 10:44:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ola-and-krzysiek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97fbe362-7d33-4510-bd42-ef4c479a21b5.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/ola-and-krzysiek/dzien-5-a-fonsagrada-o-cadavo-kto-szedl-to-szedl/index.html</link>
+            <guid isPermaLink="false">05ea9421-dbb8-4c34-9195-7bff70bb2edf</guid>
+            <pubDate>Tue, 23 Aug 2016 10:44:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69eae562-b0d9-452d-8960-cc4f3821a67b.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/ola-and-krzysiek/a-coruna/index.html</link>
             <guid isPermaLink="false">b57ea0ae-a4ba-4ed2-9992-701d1e606b4c</guid>
             <pubDate>Tue, 23 Aug 2016 10:39:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/60808f31-3d21-4111-8229-2f288edb70e7.jpg">]]></description>
-            <link>https://thegrid.ai/ola-and-krzysiek/barcelona/index.html</link>
-            <guid isPermaLink="false">bf1a2243-1b97-423d-be49-cf2a6e491c4e</guid>
-            <pubDate>Tue, 23 Aug 2016 10:39:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
