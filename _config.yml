@@ -58,6 +58,9 @@ navigation:
   - name: Dzien 5 A Fonsagrada - O Cadavo
     id: 05ea9421-dbb8-4c34-9195-7bff70bb2edf
     type: content
+  - name: 'Dzień 4 Castro - A Fonsagrada ponad 100km za nami, kolejne 160 przed nami.'
+    id: d2b76fee-b8fa-4242-8a3c-6673f47132c8
+    type: content
 favicon: null
 title: Ola&Krzysiek
 purpose: []
