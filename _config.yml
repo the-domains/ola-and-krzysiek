@@ -1,20 +1,4 @@
-name: Ola&Krzysiek
-favicon: null
-layout_spectrum: 0.20402
 typography_spectrum: 0.19520770711824298
-title: Ola&Krzysiek
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E6E2AF'
@@ -26,4 +10,24 @@ color:
   lightness: 0.4503232575953007
   saturation: 0.46681961067952216
   rhythmicContrast: 0.7466618386097252
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.20402
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Ola&Krzysiek
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Barcelona
+    id: bf1a2243-1b97-423d-be49-cf2a6e491c4e
+    type: content
+favicon: null
+title: Ola&Krzysiek
 purpose: []
