@@ -37,6 +37,9 @@ navigation:
   - name: Dzień 12 Santa Irene - Monte do Gozo.
     id: ec6db1bf-28f8-47e4-a9f5-45392a849b7c
     type: content
+  - name: Dzień 11 Boente - Arzua - Santa Irene
+    id: ef57ea59-42cd-4ee1-acac-5ebbad3ad360
+    type: content
 favicon: null
 title: Ola&Krzysiek
 purpose: []
